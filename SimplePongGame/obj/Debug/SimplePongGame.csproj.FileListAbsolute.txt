@@ -1,0 +1,10 @@
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\bin\Debug\SimplePongGame.exe.config
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\bin\Debug\SimplePongGame.exe
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\bin\Debug\SimplePongGame.pdb
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\obj\Debug\SimplePongGame.csprojAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\obj\Debug\SimplePongGame.Properties.Resources.resources
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\obj\Debug\SimplePongGame.csproj.GenerateResource.cache
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\obj\Debug\SimplePongGame.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\obj\Debug\SimplePongGame.exe
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\obj\Debug\SimplePongGame.pdb
+C:\Users\Daniel\Source\Repos\SimplePongGame\SimplePongGame\SimplePongGame\obj\Debug\SimplePongGame.Form1.resources
